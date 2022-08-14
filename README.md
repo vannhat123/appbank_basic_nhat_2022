@@ -7,3 +7,4 @@
   + rest api ( lấy dữ liệu json).
   + quản lý state: bloc,
   + page: đăng ký, đăng nhập, nhập thông tin, chuyển tiền ( dữ liệu trên firestore database).
+![Artboard 3](E:\Downloads\Compressed\freepiik\logo tron\4x\Artboard 3.png)
